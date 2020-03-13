@@ -1,0 +1,12 @@
+<?php
+$routing=[
+	'/'=>'index',
+	'/Historia'=>'Historia',
+	'/Style'=>'Style',
+	'/Wyloguj'=>'Wyloguj',
+	'/Wysylanie'=>'Wysylanie',
+	'/Zaloguj'=>'Zaloguj',
+	'/Galeria'=>'Galeria',
+	'/Rejestracja'=>'Rejestracja',
+	'/Profile'=>'Profile',
+];
